@@ -1,0 +1,6 @@
+logs/
+runs/
+train/
+__pycache__/
+.ipynb*/
+*.ipynb
