@@ -1,5 +1,7 @@
 # Code for MineRL competition submission
 
+[project page](https://policy.fit/project/minerl/)
+
 This repo contains code for our team(CraftRL)'s [MineRL competition](https://www.aicrowd.com/challenges/neurips-2019-minerl-competition) submission.
 
 ### Dependencies
